@@ -1,7 +1,7 @@
 # Inery Task 5 by miqbalk
 
 ## Test the DApp online
-check here <a href="https://miqbalk.netlify.app/">https://miqbalk.netlify.app</a>
+check here <a href="https://kribolista.netlify.app/">https://kribolista.netlify.app</a>
 
 ## Test the DApp locally
 
