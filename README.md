@@ -1,4 +1,4 @@
-# Inery Task 5 by miqbalk
+# Inery Task 5 by kribolista
 
 ## Test the DApp online
 check here <a href="https://kribolista.netlify.app/">https://kribolista.netlify.app</a>
